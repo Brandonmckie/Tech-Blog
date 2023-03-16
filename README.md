@@ -2,9 +2,18 @@
 
 ## Licensing:
 
+<<<<<<< HEAD
+
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
 ## Table of Contents
+
+=======
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+
+## Table of Contents
+
+> > > > > > > c7649bf7a0150e6d010f979f4c0003e23a2d2052
 
 - [User Story](#user-story)
 - [Description](#description)
